@@ -5,7 +5,7 @@ nicbarker-clay-playground
 Based on [clay/examples/cpp-project-example at main · nicbarker/clay](https://github.com/nicbarker/clay/tree/main/examples/cpp-project-example)
 
 ### Using
-- [dirkarnez/clay-prebuilt](https://github.com/dirkarnez/clay-prebuilt)
+- [dirkarnez/nicbarker-clay-prebuilt](https://github.com/dirkarnez/nicbarker-clay-prebuilt)
 
 ### TODOs
 - [ ] remove logic in .github/workflows/build.yml

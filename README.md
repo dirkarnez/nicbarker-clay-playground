@@ -2,7 +2,7 @@ nicbarker-clay-playground
 =========================
 ![](https://github.com/dirkarnez/nicbarker-clay-playground/actions/workflows/build.yml/badge.svg)
 
-Based on [clay/examples/cpp-project-example at 9904ca533a868dcdd6d96085a3c853b9b9e3f511 · nicbarker/clay](https://github.com/nicbarker/clay/tree/9904ca533a868dcdd6d96085a3c853b9b9e3f511/examples/cpp-project-example)
+Based on [clay/examples/cpp-project-example at main · nicbarker/clay](https://github.com/nicbarker/clay/tree/main/examples/cpp-project-example)
 
 ### Using
 - [dirkarnez/clay-prebuilt](https://github.com/dirkarnez/clay-prebuilt)
